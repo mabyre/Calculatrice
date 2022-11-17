@@ -1,9 +1,10 @@
 # Calculatrice
 
-C# Calculator the famous best seller
+C# Calculator, the famous best seller, downloaded more than ten thousand times
 
-This one is very well known has a best seller in C# developer community
-This is a usual evaluation test
+This project is very well known has a best seller in C# developer community
+
+This is a very common assessment test that I also took ;)
 
 # You need help
 
